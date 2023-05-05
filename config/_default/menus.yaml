@@ -4,24 +4,39 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Intro
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Dates
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Tutorial
+    url: '#projects'
+    weight: 25
+  - name: Keynotes
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Schedule
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Awards
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Accepted papers
     url: '#contact'
     weight: 60
+  - name: CFP
+    url: '#projects'
+    weight: 70
+  - name: Organization
+    url: '#talks'
+    weight: 80
+  - name: MLG@KDD
+    url: '#featured'
+    weight: 90
+  - name: History
+    url: '#contact'
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
