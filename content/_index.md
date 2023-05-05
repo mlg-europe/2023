@@ -13,9 +13,9 @@ sections:
       cta:
         label: '**Call for Papers**'
         url: https://wowchemy.com/templates/
-      cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
+      #cta_alt:
+      #  label: Ask a question
+      #  url: https://discord.gg/z8wNYzb
       text: |-
         **20th International Workshop on
         <br />
@@ -30,7 +30,7 @@ sections:
       background:
         #gradient_end: '#1976d2'
         #gradient_start: '#004ba0'
-        #text_color_light: true
+        text_color_light: true
         image:
           # Name of image in `assets/media/`.
           filename:  Turin_monte_cappuccini.jpg
@@ -46,4 +46,57 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+          
+
+  - block: people
+    content:
+      title: Tutorial
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - tutorial-speaker
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: false
+      # Show user's role?
+      show_role: false
+      # Show user's organizations/affiliations?
+      show_organizations: true
+
+  - block: people
+    content:
+      title: Keynotes
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - keynote-speaker
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: false
+      # Show user's role?
+      show_role: false
+      # Show user's organizations/affiliations?
+      show_organizations: true
+
+  
+  - block: people
+    content:
+      title: Organizers
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - PC
+    design:
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: false
+      # Show user's role?
+      show_role: false
+      # Show user's organizations/affiliations?
+      show_organizations: true
 ---
