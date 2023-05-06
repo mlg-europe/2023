@@ -209,28 +209,30 @@ sections:
 
           This allows researchers and practitioners from Europe and America to choose a venue that is geographically close and in a suitable time zone.
 
-Feel free to visit the homepage of this year's sister workshop:
+          Feel free to visit the homepage of this year's sister workshop:
 
 
   - block: markdown
     content:
         title: Previous Workshops
         text: |-
-          2022, Washington, USA (co-located with KDD)
-          2020, virtual (co-located with KDD)
-          2019, Anchorage, USA (co-located with KDD)
-          2018, London, United Kingdom (co-located with KDD)
-          2017, Halifax, Nova Scotia, Canada (co-located with KDD)
-          2016, San Francisco, USA (co-located with KDD)
-          2013, Chicago, USA (co-located with KDD)
-          2012, Edinburgh, Scotland (co-located with ICML)
-          2011, San Diego, USA (co-located with KDD)
-          2010, Washington, USA (co-located with KDD)
-          2009, Leuven, Belgium (co-located with SRL and ILP)
-          2008, Helsinki, Finland (co-located with ICML)
-          2007, Firenze, Italy
-          2006, Berlin, Germany (co-located with ECML and PKDD)
-          2005, Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)
-          2004, Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)
-          2003, Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)
+          * 2023, Washington DC, USA (co-located with KDD)
+          * 2022, Grenoble, France (co-located with ECMLPKDD)
+          * 2022, Washington, USA (co-located with KDD)
+          * 2020, virtual (co-located with KDD)
+          * 2019, Anchorage, USA (co-located with KDD)
+          * 2018, London, United Kingdom (co-located with KDD)
+          * 2017, Halifax, Nova Scotia, Canada (co-located with KDD)
+          * 2016, San Francisco, USA (co-located with KDD)
+          * 2013, Chicago, USA (co-located with KDD)
+          * 2012, Edinburgh, Scotland (co-located with ICML)
+          * 2011, San Diego, USA (co-located with KDD)
+          * 2010, Washington, USA (co-located with KDD)
+          * 2009, Leuven, Belgium (co-located with SRL and ILP)
+          * 2008, Helsinki, Finland (co-located with ICML)
+          * 2007, Firenze, Italy
+          * 2006, Berlin, Germany (co-located with ECML and PKDD)
+          * 2005, Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)
+          * 2004, Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)
+          * 2003, Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)
 ---
