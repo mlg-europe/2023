@@ -75,13 +75,19 @@ sections:
     content:
       title: Important Dates
       text: |-
-        **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
+        <div style="margin-left: auto;
+            margin-right: auto;
+            width: 45%">
 
-        **Author Notification:** July 13th July 20th, 2022
+        **Paper Submission Deadline:** June 19th (11:59pm, [AoE](https://time.is/Anywhere_on_Earth)) 2023
 
-        **Camera Ready:** September 5th, 2022 September 12th, 2022
+        **Author Notification:** July 12th 2023
 
-        **Workshop:** September 23rd, 2022
+        **Camera Ready:** September 4th  2023
+
+        **Workshop:** September 22rd 2023
+
+        </div>
 
   - block: people
     content:
@@ -104,7 +110,7 @@ sections:
       # Show user's social networking links? (true/false)
       show_social: false
       # Show user's interests? (true/false)
-      show_interests: true
+      show_interests: false
       # Show user's role?
       show_role: false
       # Show user's organizations/affiliations?
@@ -132,6 +138,27 @@ sections:
     content:
         title: Schedule
         text: |-
+          
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 25%">
+
+          Turin, Italy (all times are [CEST](https://time.is/CEST))
+          </div>
+
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+          All accepted papers will be presented in the poster session.
+          </div>
+
+
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 35%">
+
+
           |       | Schedule                             |
           |-------|--------------------------------------|
           | 09:00 | Opening                              |
@@ -151,19 +178,33 @@ sections:
           | 17:30 | Poster session (Group B)             |
           | 18:15 | Conclusion & Awards                  |
 
+          </div>
+
   - block: markdown 
     content:
         title: Awards
         text: |-
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 100%"> 
+
           Based on the quality of the submissions, we will select one **best paper award** and one **student best paper award**.
 
           We also want to award a **best poster award** based on a public vote from all workshop attendees during the poster session.
+
+          </div>
 
   - block: markdown
     content:
         title: Accepted Papers
         text: |-
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 5%">
+
           TBD
+
+          </div>
 
   - block: markdown
     content:
@@ -230,6 +271,10 @@ sections:
     content:
         title:  Program Committee
         text: |-
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 45%"> 
+
           * Andrea Paudice (University of Milan)
           * Bo Kang (Ghent University)
           * Christopher Morris (RWTH Aachen University)
@@ -250,6 +295,8 @@ sections:
           * Till Schulz (University of Bonn)
           * Tiphaine Viard (Telecom Paris) 
 
+          </div>
+
   - block: markdown
     content:
         title: MLG@KDD2023
@@ -265,6 +312,10 @@ sections:
     content:
         title: Previous Workshops
         text: |-
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%"> 
+
           * 2023, Washington DC, USA (co-located with KDD)
           * 2022, Grenoble, France (co-located with ECMLPKDD)
           * 2022, Washington, USA (co-located with KDD)
@@ -284,4 +335,6 @@ sections:
           * 2005, Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)
           * 2004, Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)
           * 2003, Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)
+
+          </div>
 ---
