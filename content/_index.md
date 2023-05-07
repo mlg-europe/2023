@@ -273,27 +273,9 @@ sections:
         text: |-
           <div style="margin-left: auto;
             margin-right: auto;
-            width: 45%"> 
+            width: 5%"> 
 
-          * Andrea Paudice (University of Milan)
-          * Bo Kang (Ghent University)
-          * Christopher Morris (RWTH Aachen University)
-          * Fabio Vitale (Centai, Turin)
-          * Gaurav Rattan (RWTH Aachen University)
-          * Jan Ramon (Inria)
-          * Jefrey Lijffrijt (Ghent University)
-          * Jilles Vreeken (Helmholtz CISPA)
-          * Josephine Thomas (University of Kassel)
-          * Karsten Borgwardt (ETH Zürich)
-          * Lovro Šubelj (University of Ljubljana)
-          * Marco Bressan (University of Milan)
-          * Mark Herbster (University College London)
-          * Matthias Fey (kumo.ai)
-          * Nicolò Navarin (University of Padova)
-          * Stefan Neumann (KTH Royal Institute of Technology)
-          * Tamara Drucks (TU Wien)
-          * Till Schulz (University of Bonn)
-          * Tiphaine Viard (Telecom Paris) 
+          TBD
 
           </div>
 
@@ -316,25 +298,25 @@ sections:
             margin-right: auto;
             width: 60%"> 
 
-          * 2023, Washington DC, USA (co-located with KDD)
-          * 2022, Grenoble, France (co-located with ECMLPKDD)
-          * 2022, Washington, USA (co-located with KDD)
-          * 2020, virtual (co-located with KDD)
-          * 2019, Anchorage, USA (co-located with KDD)
-          * 2018, London, United Kingdom (co-located with KDD)
-          * 2017, Halifax, Nova Scotia, Canada (co-located with KDD)
-          * 2016, San Francisco, USA (co-located with KDD)
-          * 2013, Chicago, USA (co-located with KDD)
-          * 2012, Edinburgh, Scotland (co-located with ICML)
-          * 2011, San Diego, USA (co-located with KDD)
-          * 2010, Washington, USA (co-located with KDD)
-          * 2009, Leuven, Belgium (co-located with SRL and ILP)
-          * 2008, Helsinki, Finland (co-located with ICML)
-          * 2007, Firenze, Italy
-          * 2006, Berlin, Germany (co-located with ECML and PKDD)
-          * 2005, Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)
-          * 2004, Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)
-          * 2003, Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)
+          * 2023, [Washington DC, USA (co-located with KDD)]
+          * 2022, [Grenoble, France (co-located with ECMLPKDD)](https://www.mlgworkshop.ml/)
+          * 2022, [Washington, USA (co-located with KDD)](http://www.mlgworkshop.org/2022/)
+          * 2020, [virtual (co-located with KDD)](http://www.mlgworkshop.org/2020/)
+          * 2019, [Anchorage, USA (co-located with KDD)](http://www.mlgworkshop.org/2019/)
+          * 2018, [London, United Kingdom (co-located with KDD)](http://www.mlgworkshop.org/2018/)
+          * 2017, [Halifax, Nova Scotia, Canada (co-located with KDD)](http://www.mlgworkshop.org/2017/)
+          * 2016, [San Francisco, USA (co-located with KDD)](http://www.mlgworkshop.org/2016/)
+          * 2013, [Chicago, USA (co-located with KDD)](http://snap.stanford.edu/mlg2013/)
+          * 2012, [Edinburgh, Scotland (co-located with ICML)](http://dtai.cs.kuleuven.be/events/mlg2012/)
+          * 2011, [San Diego, USA (co-located with KDD)]
+          * 2010, [Washington, USA (co-located with KDD)](http://www.cs.umd.edu/mlg2010/)
+          * 2009, [Leuven, Belgium (co-located with SRL and ILP)](http://dtai.cs.kuleuven.be/ilp-mlg-srl//)
+          * 2008, [Helsinki, Finland (co-located with ICML)](http://research.ics.aalto.fi/events/MLG08/)
+          * 2007, [Firenze, Italy]
+          * 2006, [Berlin, Germany (co-located with ECML and PKDD)]
+          * 2005, [Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)]
+          * 2004, [Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)]
+          * 2003, [Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)](http://www.ar.sanken.osaka-u.ac.jp/MGTS-2003CFP.html)
 
           </div>
 ---
