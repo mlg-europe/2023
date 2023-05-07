@@ -3,8 +3,8 @@
 title: Davide Bacciu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Davide
+last_name: Bacciu
 
 # Status emoji
 status:
@@ -17,8 +17,8 @@ user_groups: ["tutorial-speaker"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://di.unipi.it/en/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

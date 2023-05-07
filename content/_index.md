@@ -71,14 +71,17 @@ sections:
          social network analysis, and network science. Our workshop will serve as a forum for researchers from this variety of fields working on mining 
          and learning with graphs to share and discuss their latest findings.
 
-   - block: markdown
-     content:
-       title: Important Dates
-       text: |-
-         **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
-         **Author Notification:** July 13th July 20th, 2022
-         **Camera Ready:** September 5th, 2022 September 12th, 2022
-         **Workshop:** September 23rd, 2022
+  - block: markdown
+    content:
+      title: Important Dates
+      text: |-
+        **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
+
+        **Author Notification:** July 13th July 20th, 2022
+
+        **Camera Ready:** September 5th, 2022 September 12th, 2022
+        
+        **Workshop:** September 23rd, 2022
 
   - block: people
     content:
