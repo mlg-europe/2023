@@ -3,8 +3,8 @@
 title: Giannis Nikolentzos
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Giannis
+last_name: Nikolentzos
 
 # Status emoji
 status:
@@ -17,8 +17,8 @@ user_groups: ["keynote-speaker"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:  École Polytechnique
+    url: https://www.lix.polytechnique.fr/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

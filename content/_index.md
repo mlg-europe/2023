@@ -80,7 +80,7 @@ sections:
         **Author Notification:** July 13th July 20th, 2022
 
         **Camera Ready:** September 5th, 2022 September 12th, 2022
-        
+
         **Workshop:** September 23rd, 2022
 
   - block: people
@@ -104,7 +104,7 @@ sections:
       # Show user's social networking links? (true/false)
       show_social: false
       # Show user's interests? (true/false)
-      show_interests: false
+      show_interests: true
       # Show user's role?
       show_role: false
       # Show user's organizations/affiliations?
@@ -154,10 +154,16 @@ sections:
   - block: markdown 
     content:
         title: Awards
+        text: |-
+          Based on the quality of the submissions, we will select one **best paper award** and one **student best paper award**.
+
+          We also want to award a **best poster award** based on a public vote from all workshop attendees during the poster session.
 
   - block: markdown
     content:
         title: Accepted Papers
+        text: |-
+          TBD
 
   - block: markdown
     content:
@@ -219,7 +225,7 @@ sections:
       # Show user's organizations/affiliations?
       show_organizations: true
 
-
+      
   - block: markdown
     content:
         title:  Program Committee
