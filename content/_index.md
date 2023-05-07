@@ -301,7 +301,7 @@ sections:
     content:
         title: MLG@KDD2023
         text: |-
-          This year, the International Workshop on Mining and Learning with Graphs is collocated with two conferences. The ACM SIGKDD Conference on Knowledge Discovery and Data Mining, and the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
+          This year, the International Workshop on Mining and Learning with Graphs is collocated with two conferences. The [ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://kdd.org/kdd2023/), and the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases](https://2023.ecmlpkdd.org/).
 
           This allows researchers and practitioners from Europe and America to choose a venue that is geographically close and in a suitable time zone.
 
