@@ -3,8 +3,8 @@
 title: Bastian Rieck
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Bastian
+last_name: Rieck
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ user_groups: ["keynote-speaker"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Helmholz Munich, Technical University Munich (TUM)
     url: https://www.stanford.edu/
 
 # Social/Academic Networking
