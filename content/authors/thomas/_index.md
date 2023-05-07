@@ -3,8 +3,8 @@
 title: Thomas Gärtner
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Thomas
+last_name: Gärtner
 
 # Status emoji
 status:
@@ -17,8 +17,8 @@ user_groups: ["PC"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: TU Wien
+    url: https://informatics.tuwien.ac.at/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

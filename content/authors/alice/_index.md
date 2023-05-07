@@ -4,7 +4,7 @@ title: Alice Moallemy-Oureh
 
 # Full name (for SEO)
 first_name: Alice
-last_name: Wu
+last_name: Moallemy-Oureh
 
 # Status emoji
 status:
@@ -17,8 +17,8 @@ user_groups: ["PC"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Kassel
+    url: https://www.uni-kassel.de/eecs/en/sections/intelligent-embedded-systems/home
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
