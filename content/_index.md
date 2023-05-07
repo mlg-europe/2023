@@ -298,25 +298,25 @@ sections:
             margin-right: auto;
             width: 60%"> 
 
-          * 2023, [Washington DC, USA (co-located with KDD)]
-          * 2022, [Grenoble, France (co-located with ECMLPKDD)](https://www.mlgworkshop.ml/)
-          * 2022, [Washington, USA (co-located with KDD)](http://www.mlgworkshop.org/2022/)
-          * 2020, [virtual (co-located with KDD)](http://www.mlgworkshop.org/2020/)
-          * 2019, [Anchorage, USA (co-located with KDD)](http://www.mlgworkshop.org/2019/)
-          * 2018, [London, United Kingdom (co-located with KDD)](http://www.mlgworkshop.org/2018/)
-          * 2017, [Halifax, Nova Scotia, Canada (co-located with KDD)](http://www.mlgworkshop.org/2017/)
-          * 2016, [San Francisco, USA (co-located with KDD)](http://www.mlgworkshop.org/2016/)
-          * 2013, [Chicago, USA (co-located with KDD)](http://snap.stanford.edu/mlg2013/)
-          * 2012, [Edinburgh, Scotland (co-located with ICML)](http://dtai.cs.kuleuven.be/events/mlg2012/)
-          * 2011, [San Diego, USA (co-located with KDD)]
-          * 2010, [Washington, USA (co-located with KDD)](http://www.cs.umd.edu/mlg2010/)
-          * 2009, [Leuven, Belgium (co-located with SRL and ILP)](http://dtai.cs.kuleuven.be/ilp-mlg-srl//)
-          * 2008, [Helsinki, Finland (co-located with ICML)](http://research.ics.aalto.fi/events/MLG08/)
-          * 2007, [Firenze, Italy]
-          * 2006, [Berlin, Germany (co-located with ECML and PKDD)]
-          * 2005, [Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)]
-          * 2004, [Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)]
-          * 2003, [Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)](http://www.ar.sanken.osaka-u.ac.jp/MGTS-2003CFP.html)
+          * 2023, Washington DC, USA (co-located with KDD)
+          * 2022, Grenoble, France (co-located with ECMLPKDD)
+          * [2022, Washington, USA (co-located with KDD)](http://www.mlgworkshop.org/2022/)
+          * [2020, virtual (co-located with KDD)](http://www.mlgworkshop.org/2020/)
+          * [2019, Anchorage, USA (co-located with KDD)](http://www.mlgworkshop.org/2019/)
+          * [2018, London, United Kingdom (co-located with KDD)](http://www.mlgworkshop.org/2018/)
+          * [2017, Halifax, Nova Scotia, Canada (co-located with KDD)](http://www.mlgworkshop.org/2017/)
+          * [2016, San Francisco, USA (co-located with KDD)](http://www.mlgworkshop.org/2016/)
+          * [2013, Chicago, USA (co-located with KDD)](http://snap.stanford.edu/mlg2013/)
+          * [2012, Edinburgh, Scotland (co-located with ICML)](http://dtai.cs.kuleuven.be/events/mlg2012/)
+          * 2011, San Diego, USA (co-located with KDD)
+          * [2010, Washington, USA (co-located with KDD)](http://www.cs.umd.edu/mlg2010/)
+          * [2009, Leuven, Belgium (co-located with SRL and ILP)](http://dtai.cs.kuleuven.be/ilp-mlg-srl//)
+          * [2008, Helsinki, Finland (co-located with ICML)](http://research.ics.aalto.fi/events/MLG08/)
+          * 2007, Firenze, Italy
+          * 2006, Berlin, Germany (co-located with ECML and PKDD)
+          * 2005, Porto, Portugal, October 7, 2005 (co-located with ECML and PKDD)
+          * 2004, Pisa, Italy, September 24, 2004 (co-located with ECML and PKDD)
+          * [2003, Cavtat-Dubrovnik, Croatia (co-located with ECML and PKDD)](http://www.ar.sanken.osaka-u.ac.jp/MGTS-2003CFP.html)
 
           </div>
 ---
