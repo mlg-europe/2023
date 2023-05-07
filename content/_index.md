@@ -55,36 +55,30 @@ sections:
     content:
        title: Introduction
        text: |-
-        There is a great deal of interest in analyzing data that is best represented as a graph. 
-        Examples include the WWW, social networks, biological networks, communication networks, transportation networks, energy grids, and many others. 
-        These graphs are typically multi-modal, multi-relational, and dynamic. 
-        The importance of being able to effectively mine and learn from such data is growing, as more and more structured and semi-structured data is 
-        becoming available. Effectively learning from this kind of data poses several challenging problems, including:
+         There is a great deal of interest in analyzing data that is best represented as a graph. 
+         Examples include the WWW, social networks, biological networks, communication networks, transportation networks, energy grids, and many others. 
+         These graphs are typically multi-modal, multi-relational, and dynamic. 
+         The importance of being able to effectively mine and learn from such data is growing, as more and more structured and semi-structured data is 
+         becoming available. Effectively learning from this kind of data poses several challenging problems, including:
         
-        * The necessity of a plethora of different techniques, including graph mining algorithms, graph embedding techniques, and other learning algorithms on graphs.
-        * Dealing with the heterogeneity of the data as well as information integration and alignment.
-        * Handling dynamic and changing data.
-        * Addressing each of these issues at scale.
+         * The necessity of a plethora of different techniques, including graph mining algorithms, graph embedding techniques, and other learning algorithms on graphs.
+         * Dealing with the heterogeneity of the data as well as information integration and alignment.
+         * Handling dynamic and changing data.
+         * Addressing each of these issues at scale.
         
-        Traditionally, a number of subareas have contributed to this space: 
-        communities in graph mining, learning from structured data, statistical relational learning, inductive logic programming, 
-        social network analysis, and network science. Our workshop will serve as a forum for researchers from this variety of fields working on mining 
-        and learning with graphs to share and discuss their latest findings.
+         Traditionally, a number of subareas have contributed to this space: 
+         communities in graph mining, learning from structured data, statistical relational learning, inductive logic programming, 
+         social network analysis, and network science. Our workshop will serve as a forum for researchers from this variety of fields working on mining 
+         and learning with graphs to share and discuss their latest findings.
 
    - block: markdown
      content:
        title: Important Dates
        text: |-
-            **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
-
-            **Author Notification:** July 13th July 20th, 2022
-
-            **Camera Ready:** September 5th, 2022 September 12th, 2022
-
-            **Workshop:** September 23rd, 2022
-
-
-          
+         **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
+         **Author Notification:** July 13th July 20th, 2022
+         **Camera Ready:** September 5th, 2022 September 12th, 2022
+         **Workshop:** September 23rd, 2022
 
   - block: people
     content:
