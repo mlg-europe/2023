@@ -101,12 +101,24 @@ sections:
     content:
         title: Schedule
         text: |-
-          |             | Schedule |
-          |-------------|----------|
-          | aa:bb-cc:dd | Opening  |
-          | aa:bb-cc:dd | ...      |
-          | aa:bb-cc:dd | ...      |
-          | aa:bb-cc:dd | ...      |
+          |       | Schedule                             |
+          |-------|--------------------------------------|
+          | 09:00 | Opening                              |
+          | 09:05 | Keynote 1                            |
+          | 09:50 | 1st & 2nd oral talks                 |
+          | 10:20 | Coffee break                         |
+          | 10:50 | Pich/Introduction talks              |
+          | 11:20 | Poster session (Group A)             |
+          |-------|--------------------------------------|
+          | 12:30 | Lunch break                          |
+          |-------|--------------------------------------|
+          | 13:30 | 3rd & 4th oral talk                  |
+          | 14:00 | Keynote 2                            |
+          | 15:45 | coffee break with topical discussion |
+          | 16:15 | Keynote 3                            |
+          | 17:00 | Pitch/Introduction talks             |
+          | 17:30 | Poster session (Group B)             |
+          | 18:15 | Conclusion & Awards                  |
 
   - block: markdown 
     content:
