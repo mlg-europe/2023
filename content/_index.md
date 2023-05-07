@@ -54,7 +54,7 @@ sections:
   - block: markdown
     content:
        title: Introduction
-        text: |-
+       text: |-
         There is a great deal of interest in analyzing data that is best represented as a graph. 
         Examples include the WWW, social networks, biological networks, communication networks, transportation networks, energy grids, and many others. 
         These graphs are typically multi-modal, multi-relational, and dynamic. 
@@ -74,7 +74,7 @@ sections:
    - block: markdown
      content:
        title: Important Dates
-        text: |-
+       text: |-
             **Paper Submission Deadline:** June 20th June 23rd (11:59pm, AoE), 2022
 
             **Author Notification:** July 13th July 20th, 2022
