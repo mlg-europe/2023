@@ -18,6 +18,7 @@ user_groups: ["PC"]
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: TU Wien
+    url: https://informatics.tuwien.ac.at/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -30,11 +31,4 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.de/citations?user=hgwvC6gAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pwelke
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/pascal-welke-0163b91b6/
-
 ---
