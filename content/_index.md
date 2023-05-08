@@ -104,13 +104,11 @@ sections:
       text: |-
         **Deep learning on graphs tutorial**
 
-        The tutorial will introduce the audience to the area of deep learning for graphs and some of its
-        most compelling research challenges. Current models dealing with graph data almost inevitably
-        leverage a neural message-passing like approach. We will first introduce the foundations of such
-        an approach and discuss its reference literature models. Then we will identify and discuss the
-        limitations of these approaches and the research opportunities that are stemming from this. In
-        this second part, we will cover research topics under development in the community, touching
-        upon generative models, neural graph ODEs, dynamic graphs and algorithmic reasoning.
+        The tutorial will introduce the audience to the area of deep learning for graphs and its applications. Dealing with graph data requires learning models capable of adapting to structured samples of varying size and topology, capturing the relevant structural patterns to perform predictive and explorative tasks while maintaining the efficiency and scalability necessary to process large scale networks. The tutorial will first introduce foundational aspects and seminal models for learning with graph structured data. Then it will delve into the details of the predominant paradigm in deep learning for graphs, that is neural message-passing, and discuss its reference literature models. It will conclude with a brief discussion on the limitations of these approaches and the research opportunities that are stemming from this.
+
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 35%"></div>
     design:
       # Show user's social networking links? (true/false)
       show_social: false
@@ -172,7 +170,7 @@ sections:
           | 09:05 | Keynote 1                            |
           | 09:50 | 1st & 2nd oral talks                 |
           | 10:20 | Coffee break                         |
-          | 10:50 | Pich/Introduction talks              |
+          | 10:50 | Pitch/Introduction talks              |
           | 11:20 | Poster session (Group A)             |
           |-------|--------------------------------------|
           | 12:30 | Lunch break                          |
