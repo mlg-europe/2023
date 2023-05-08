@@ -5,37 +5,37 @@
 
 main:
   - name: Intro
-    url: '#about'
+    url: '#intro'
     weight: 10
   - name: Dates
-    url: '#posts'
+    url: '#importantdates'
     weight: 20
   - name: Tutorial
-    url: '#projects'
+    url: '#tutorial'
     weight: 25
   - name: Keynotes
-    url: '#projects'
+    url: '#keynotes'
     weight: 30
   - name: Schedule
-    url: '#talks'
+    url: '#schedule'
     weight: 40
   - name: Awards
-    url: '#featured'
+    url: '#awards'
     weight: 50
   - name: Accepted papers
-    url: '#contact'
+    url: '#accepted'
     weight: 60
   - name: CFP
-    url: '#projects'
+    url: '#cfp'
     weight: 70
-  - name: Organization
-    url: '#talks'
+  - name: Organizers
+    url: '#organizers'
     weight: 80
   - name: MLG@KDD
-    url: '#featured'
+    url: '#mlgkdd23'
     weight: 90
   - name: History
-    url: '#contact'
+    url: '#history'
     weight: 100
 
 # Link to a PDF of your resume/CV from the menu.

@@ -6,13 +6,14 @@ type: landing
 
 sections:
   - block: hero
+    id: home
     content:
       title: 20th MLG workshop 
       #image:
       #  filename: Turin_monte_cappuccini.jpg
       cta:
         label: '**Call for Papers**'
-        url: https://wowchemy.com/templates/
+        url: '#cfp'
       #cta_alt:
       #  label: Ask a question
       #  url: https://discord.gg/z8wNYzb
@@ -52,8 +53,10 @@ sections:
         title: 
 
   - block: markdown
+    id: intro
     content:
        title: Introduction
+       name: intro
        text: |-
          There is a great deal of interest in analyzing data that is best represented as a graph. 
          Examples include the WWW, social networks, biological networks, communication networks, transportation networks, energy grids, and many others. 
@@ -72,6 +75,7 @@ sections:
          and learning with graphs to share and discuss their latest findings.
 
   - block: markdown
+    id: importantdates
     content:
       title: Important Dates
       text: |-
@@ -90,6 +94,7 @@ sections:
         </div>
 
   - block: people
+    id: tutorial
     content:
       title: Tutorial
       # Choose which groups/teams of users to display.
@@ -117,6 +122,7 @@ sections:
       show_organizations: true
 
   - block: people
+    id: keynotes
     content:
       title: Keynotes
       # Choose which groups/teams of users to display.
@@ -135,6 +141,7 @@ sections:
 
 
   - block: markdown
+    id: schedule
     content:
         title: Schedule
         text: |-
@@ -181,6 +188,7 @@ sections:
           </div>
 
   - block: markdown 
+    id: awards
     content:
         title: Awards
         text: |-
@@ -195,6 +203,7 @@ sections:
           </div>
 
   - block: markdown
+    id: accepted
     content:
         title: Accepted Papers
         text: |-
@@ -207,6 +216,7 @@ sections:
           </div>
 
   - block: markdown
+    id: cfp
     content:
         title: Call for papers
         text: |-
@@ -250,6 +260,7 @@ sections:
           Please send enquiries to maximilian.thiessen@tuwien.ac.at.
   
   - block: people
+    id: organizers
     content:
       title: Organizers
       # Choose which groups/teams of users to display.
@@ -268,6 +279,7 @@ sections:
 
       
   - block: markdown
+    id: pc
     content:
         title:  Program Committee
         text: |-
@@ -275,11 +287,12 @@ sections:
             margin-right: auto;
             width: 5%"> 
 
-          TBD
+          TBC
 
           </div>
 
   - block: markdown
+    id: mlgkdd23
     content:
         title: MLG@KDD2023
         text: |-
@@ -290,7 +303,7 @@ sections:
           Feel free to visit the homepage of this year's sister workshop:
         
           <div style="text-align: center">
-          <a href="https://HIER_DEN_LINK">
+          <a href="http://mlgworkshop.org">
           <button style="background-color:#a4d61e;margin-top:2px;margin-bottom:10px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
           19th MLG at KDD
           </button>
@@ -298,7 +311,9 @@ sections:
           </div>
 
 
+
   - block: markdown
+    id: history
     content:
         title: Previous Workshops
         text: |-
@@ -306,8 +321,8 @@ sections:
             margin-right: auto;
             width: 60%"> 
 
-          * 2023, Washington DC, USA (co-located with KDD)
-          * 2022, Grenoble, France (co-located with ECMLPKDD)
+          * [2023, Washington DC, USA (co-located with KDD)](http://www.mlgworkshop.org/2023)
+          * [2022, Grenoble, France (co-located with ECMLPKDD)](https://mlg-europe.github.io/2022/)
           * [2022, Washington, USA (co-located with KDD)](http://www.mlgworkshop.org/2022/)
           * [2020, virtual (co-located with KDD)](http://www.mlgworkshop.org/2020/)
           * [2019, Anchorage, USA (co-located with KDD)](http://www.mlgworkshop.org/2019/)
