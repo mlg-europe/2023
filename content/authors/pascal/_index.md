@@ -18,16 +18,15 @@ user_groups: ["PC"]
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: TU Wien
-    url: http://pascalwelke.ml/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: house
     icon_pack: fas
-    link: '/#organizers'
+    link: http://pascalwelke.ml/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.de/citations?user=hgwvC6gAAAAJ
