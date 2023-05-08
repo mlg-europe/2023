@@ -190,15 +190,7 @@ sections:
     content:
         title: Awards
         text: |-
-          <div style="margin-left: auto;
-            margin-right: auto;
-            width: 100%"> 
-
-          Based on the quality of the submissions, we will select one **best paper award** and one **student best paper award**.
-
-          We also want to award a **best poster award** based on a public vote from all workshop attendees during the poster session.
-
-          </div>
+          TBC
 
   - block: markdown
     id: accepted
@@ -209,7 +201,7 @@ sections:
             margin-right: auto;
             width: 5%">
 
-          TBD
+          TBC
 
           </div>
 
