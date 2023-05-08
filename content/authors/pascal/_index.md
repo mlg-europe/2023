@@ -8,7 +8,7 @@ last_name: Welke
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐖
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ user_groups: ["PC"]
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: TU Wien
-    url: https://informatics.tuwien.ac.at/
+    url: http://pascalwelke.ml/
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -27,27 +27,15 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: '/#organizers'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.de/citations?user=hgwvC6gAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pwelke
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/pascal-welke-0163b91b6/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'das'
 ---
