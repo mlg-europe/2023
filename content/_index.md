@@ -148,7 +148,7 @@ sections:
             margin-right: auto;
             width: 25%">
 
-          Turin, Italy (all times are [CEST](https://time.is/CEST))
+          Torino, Italy (all times are [CEST](https://time.is/CEST))
           </div>
 
           <div style="margin-left: auto;
