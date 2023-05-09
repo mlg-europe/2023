@@ -83,7 +83,7 @@ sections:
             margin-right: auto;
             width: 45%">
 
-        **Paper Submission Deadline:** June 19th (11:59pm, [AoE](https://time.is/Anywhere_on_Earth)) 2023
+        **Paper Submission Deadline:** June 12th (11:59pm, [AoE](https://time.is/Anywhere_on_Earth)) 2023
 
         **Author Notification:** July 12th 2023
 
@@ -316,7 +316,7 @@ sections:
             margin-right: auto;
             width: 60%"> 
 
-          * [2023, Washington DC, USA (co-located with KDD)](http://www.mlgworkshop.org/2023)
+          * [2023, Long Beach, USA (co-located with KDD)](http://www.mlgworkshop.org/2023)
           * [2022, Grenoble, France (co-located with ECMLPKDD)](https://mlg-europe.github.io/2022/)
           * [2022, Washington, USA (co-located with KDD)](http://www.mlgworkshop.org/2022/)
           * [2020, virtual (co-located with KDD)](http://www.mlgworkshop.org/2020/)
