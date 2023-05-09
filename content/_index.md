@@ -170,11 +170,9 @@ sections:
           | 09:05 | Keynote 1                            |
           | 09:50 | 1st & 2nd oral talks                 |
           | 10:20 | Coffee break                         |
-          | 10:50 | Pitch/Introduction talks              |
+          | 10:50 | Pitch/Introduction talks             |
           | 11:20 | Poster session (Group A)             |
-          |-------|--------------------------------------|
           | 12:30 | Lunch break                          |
-          |-------|--------------------------------------|
           | 13:30 | 3rd & 4th oral talk                  |
           | 14:00 | Keynote 2                            |
           | 15:45 | coffee break with topical discussion |
@@ -190,7 +188,11 @@ sections:
     content:
         title: Awards
         text: |-
-          TBC
+          <div style="margin-left: auto;
+            margin-right: auto;
+            width: 5%">
+            TBC
+          </div>
 
   - block: markdown
     id: accepted
