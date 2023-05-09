@@ -299,7 +299,7 @@ sections:
         
           <div style="text-align: center">
           <a href="http://mlgworkshop.org">
-          <button style="background-color:#a4d61e;margin-top:2px;margin-bottom:10px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
+          <button style="background-color:#4CAF50;margin-top:2px;margin-bottom:10px;border-radius:4px;font-size:1em;padding:8px 20px;    font-family: "GibsonSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;float:none !important;text-shadow:0 1px 1px rgba(0,0,0,0.2)">
           19th MLG at KDD
           </button>
           </a>
