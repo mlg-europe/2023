@@ -232,7 +232,7 @@ sections:
           * Benchmarking aspects of graph based learning
           * Libraries and tools for all of the above areas
 
-          We welcome many kinds of papers, such as, but not limited to:
+          **We welcome many kinds of papers**, such as, but not limited to:
 
           * Novel research papers
           * Demo papers
@@ -241,11 +241,17 @@ sections:
           * Relevant work that has been previously published
           * Work that will be presented at the main conference (incl. research, ADS, or journal track; can be submitted in full length ignoring our page limit)
 
-          Authors should clearly indicate in their abstracts the kinds of submissions that the papers belong to, to help reviewers better understand their contributions. All papers will be (single blind) peer reviewed. Submissions must be in PDF, long papers no more than 12 pages long, short papers no more than 8 pages long, formatted according to the standard Springer LNCS style required for ECMLPKDD submissions. Authors can use unlimited additional pages for appendices. The accepted papers will be published on the workshop’s website and will not be considered archival for resubmission purposes. Authors whose papers are accepted to the workshop will have the opportunity to participate in a pitch and poster session, and the best two will also be chosen for oral presentation.
+          Authors must clearly indicate in their abstracts the kinds of submissions that the papers belong to, to help reviewers better understand their contributions. All papers will be (single blind) peer reviewed. 
+
+          **Submissions** must be in PDF, long papers no more than 12 pages long, short papers no more than 8 pages long, formatted according to the standard [Springer LNCS style](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6) required for ECMLPKDD submissions. Authors can use unlimited additional pages for references and appendices. 
+
+          All accepted papers will be published on the workshop’s website. Unpublished submissions (e.g., novel research papers, novel demo papers, novel visionary papers, and novel appraisal papers) will additionally be considered for inclusion in the ECMLPKDD workshop proceedings in the Springer CCIT series. This is an opt-in process.
+          Website publication will not be considered archival for resubmission purposes. Authors whose papers are accepted to the workshop will have the opportunity to participate in a pitch and poster session, and the best two will also be chosen for oral presentation.
+
 
           Please note that at least one author of each accepted paper has to register for the conference.
 
-          Dual Submission Policy: We accept submissions that are currently under review at other venues. However, in this case our page limits apply. Please also check the dual submission policy of the other venue.
+          **Dual Submission Policy**: We accept submissions that are currently under review at other venues. However, in this case our page limits apply. Please also check the dual submission policy of the other venue.
 
           For paper submission, please proceed to our [submission page](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FECMLPKDDworkshop2023%2FSubmission%2FManage).
 
