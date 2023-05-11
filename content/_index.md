@@ -173,16 +173,16 @@ sections:
           |       | Schedule                              |
           |-------|---------------------------------------|
           | 08:55 | Opening                               |
-          | 09:00 | Tutorial by Davide                    |
+          | 09:00 | Tutorial by Davide Bacciu             |
           | 10:45 | Coffee break                          |
           | 11:00 | 1st & 2nd oral talk                   |
           | 11:30 | Pitch talks                           |
           | 12:00 | Poster session (group A)              |
           | 13:00 | Lunch break                           |
-          | 14:00 | Keynote by Giannis                    |
+          | 14:00 | Keynote by Giannis Nikolentzos        |
           | 14:45 | 3rd & 4th oral talk                   |
           | 15:15 | Coffee break with topical discussions |
-          | 15:45 | Keynote by Bastian                    |
+          | 15:45 | Keynote by Bastian Rieck              |
           | 16:30 | Pitch talks                           |
           | 17:00 | Poster session (group B)              |
           | 18:00 | Conclusion & awards                   |
