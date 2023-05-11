@@ -144,43 +144,48 @@ sections:
         title: Schedule
         text: |-
           
-          <div style="margin-left: auto;
+          <div align="center" style="margin-left: auto;
             margin-right: auto;
-            width: 25%">
+            width: 100%">
 
           Torino, Italy (all times are [CEST](https://time.is/CEST))
           </div>
 
-          <div style="margin-left: auto;
+          <div align="center" style="margin-left: auto;
             margin-right: auto;
-            width: 50%">
+            width: 100%">
 
           All accepted papers will be presented in the poster session.
+          
+          <br />
           </div>
-
 
           <div style="margin-left: auto;
             margin-right: auto;
-            width: 35%">
+            width: 60%">
+          <style>
+          tr:nth-child(even) {
+            background-color: #DDDDDD!important;
+          }
+          </style>
 
 
-          |       | Schedule                             |
-          |-------|--------------------------------------|
-          | 09:00 | Opening                              |
-          | 09:05 | Keynote 1                            |
-          | 09:50 | 1st & 2nd oral talks                 |
-          | 10:20 | Coffee break                         |
-          | 10:50 | Pitch/Introduction talks             |
-          | 11:20 | Poster session (Group A)             |
-          | 12:30 | Lunch break                          |
-          | 13:30 | 3rd & 4th oral talk                  |
-          | 14:00 | Keynote 2                            |
-          | 15:45 | coffee break with topical discussion |
-          | 16:15 | Keynote 3                            |
-          | 17:00 | Pitch/Introduction talks             |
-          | 17:30 | Poster session (Group B)             |
-          | 18:15 | Conclusion & Awards                  |
-
+          |       | Schedule                              |
+          |-------|---------------------------------------|
+          | 08:55 | Opening                               |
+          | 09:00 | Tutorial by Davide                    |
+          | 10:45 | Coffee break                          |
+          | 11:00 | 1st & 2nd oral talk                   |
+          | 11:30 | Pitch talks                           |
+          | 12:00 | Poster session (group A)              |
+          | 13:00 | Lunch break                           |
+          | 14:00 | Keynote by Giannis                    |
+          | 14:45 | 3rd & 4th oral talk                   |
+          | 15:15 | Coffee break with topical discussions |
+          | 15:45 | Keynote by Bastian                    |
+          | 16:30 | Pitch talks                           |
+          | 17:00 | Poster session (group B)              |
+          | 18:00 | Conclusion & awards                   |
           </div>
 
   - block: markdown 
