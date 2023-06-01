@@ -289,13 +289,47 @@ sections:
     content:
         title:  Program Committee
         text: |-
-          <div style="margin-left: auto;
-            margin-right: auto;
-            width: 5%"> 
+          
+          <div style="
+              display: flex;
+              justify-content: center;"
+            > 
 
-          TBC
+            <style>
+            ol {
+              list-style-type: none;
+            }
+            </style>
 
+          1. Alessandro Sperduti, University of Padova 
+          2. Andrea Paudice, University of Milan 
+          3. Atsushi Miyauchi, CENTAI 
+          3. Caterina Graziani, University of Siena 
+          3. Clara Holzhüter, University of Kassel 
+          3. Fabian Jogl, TU Wien 
+          3. Florian Seiffarth, University of Bonn 
+          3. Franco Scarselli, University of Siena 
+          3. Franka Bause, University of Vienna 
+          3. Gaurav Rattan, TU Darmstadt 
+          3. Giuseppe Alessio D'Inverno, University of Siena 
+          3. Ingo Scholtes, University of Würzburg 
+          3. Jan Ramon, Inria 
+          3. Jilles Vreeken, Helmholtz CISPA 
+          3. Jure Leskovec, Stanford 
+          3. Lovro Šubelj, University of Ljubljana 
+          3. Nils Kriege, University of Vienna 
+          3. Sagar Malhotra, TU Wien 
+          3. Silvia Beddar-Wiesing, University of Kassel 
+          3. Sohir Maskey, LMU Munich 
+          3. Stefan Neumann, KTH Royal Institute of Technology 
+          3. Tamara Drucks, TU Wien 
+          3. Till Schulz, University of Bonn 
+          3. Veronica Lachi, University of Siena      
+          
+          
           </div>
+ 
+     
 
   - block: markdown
     id: mlgkdd23
@@ -323,9 +357,9 @@ sections:
     content:
         title: Previous Workshops
         text: |-
-          <div style="margin-left: auto;
-            margin-right: auto;
-            width: 60%"> 
+          <div style="
+              display: flex;
+              justify-content: center"> 
 
           * [2023, Long Beach, USA (co-located with KDD)](http://www.mlgworkshop.org/2023)
           * [2022, Grenoble, France (co-located with ECMLPKDD)](https://mlg-europe.github.io/2022/)
