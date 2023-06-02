@@ -314,6 +314,7 @@ sections:
           3. Giuseppe Alessio D'Inverno, University of Siena 
           3. Ingo Scholtes, University of Würzburg 
           3. Jan Ramon, Inria 
+          3. Jefrey Lijffijt, Ghent University
           3. Jilles Vreeken, Helmholtz CISPA 
           3. Jure Leskovec, Stanford 
           3. Lovro Šubelj, University of Ljubljana 
