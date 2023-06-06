@@ -306,12 +306,14 @@ sections:
           3. Atsushi Miyauchi, CENTAI 
           3. Caterina Graziani, University of Siena 
           3. Clara Holzhüter, University of Kassel 
+          3. Corinna Coupette, Max Planck Institute for Informatics
           3. Fabian Jogl, TU Wien 
           3. Florian Seiffarth, University of Bonn 
           3. Franco Scarselli, University of Siena 
           3. Franka Bause, University of Vienna 
           3. Gaurav Rattan, TU Darmstadt 
           3. Giuseppe Alessio D'Inverno, University of Siena 
+          3. Ilya Makarov, HSE University Moscow
           3. Ingo Scholtes, University of Würzburg 
           3. Jan Ramon, Inria 
           3. Jilles Vreeken, Helmholtz CISPA 
@@ -319,6 +321,7 @@ sections:
           3. Lovro Šubelj, University of Ljubljana 
           3. Nils Kriege, University of Vienna 
           3. Sagar Malhotra, TU Wien 
+          3. Sebastian Dalleiger, Helmholtz CISPA
           3. Silvia Beddar-Wiesing, University of Kassel 
           3. Sohir Maskey, LMU Munich 
           3. Stefan Neumann, KTH Royal Institute of Technology 
