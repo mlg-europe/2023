@@ -258,7 +258,7 @@ sections:
 
           **Dual Submission Policy**: We accept submissions that are currently under review at other venues. However, in this case our page limits apply. Please also check the dual submission policy of the other venue.
 
-          For paper submission, please proceed to our [submission page](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FECMLPKDDworkshop2023%2FSubmission%2FManage).
+          For paper submission, please proceed to our [submission page](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023). When submitting a paper make sure to select the correct track "MLG: Mining and Learning with Graphs" from the list of workshops.
 
           Please send enquiries to maximilian.thiessen@tuwien.ac.at.
   
