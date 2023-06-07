@@ -83,7 +83,7 @@ sections:
             margin-right: auto;
             width: 45%">
 
-        **Paper Submission Deadline:** June 12th (11:59pm, [AoE](https://time.is/Anywhere_on_Earth)) 2023
+        **Paper Submission Deadline:** ~~June 12th~~ June 18th (11:59pm, [AoE](https://time.is/Anywhere_on_Earth)) 2023
 
         **Author Notification:** July 12th 2023
 
