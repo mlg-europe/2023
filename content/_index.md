@@ -260,7 +260,7 @@ sections:
 
           For paper submission, please proceed to our [submission page](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023). When submitting a paper make sure to select the correct track "MLG: Mining and Learning with Graphs" from the list of workshops.
 
-          Please send enquiries to maximilian.thiessen@tuwien.ac.at.
+          Please send enquiries to pascal.welke@tuwien.ac.at.
   
   - block: people
     id: organizers
