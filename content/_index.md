@@ -250,7 +250,7 @@ sections:
 
           **Submissions** must be in PDF, long papers no more than 12 pages long, short papers no more than 8 pages long, formatted according to the standard [Springer LNCS style](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v6) required for ECMLPKDD submissions. Authors can use unlimited additional pages for references and appendices. 
 
-          All accepted papers will be published on the workshop’s website. Unpublished submissions (e.g., novel research papers, novel demo papers, novel visionary papers, and novel appraisal papers) will additionally be considered for inclusion in the ECMLPKDD workshop proceedings in the Springer CCIT series. This is an opt-in process.
+          All accepted papers will be published on the workshop’s website. Unpublished submissions (e.g., novel research papers, novel demo papers, novel visionary papers, and novel appraisal papers) will additionally be considered for inclusion in the ECMLPKDD workshop proceedings in the Springer CCIS series. This is an opt-in process.
           Website publication will not be considered archival for resubmission purposes. Authors whose papers are accepted to the workshop will pitch their work to the full audience and will participate in a poster session. The best two submissions will also be chosen for a long oral presentation.
 
 
