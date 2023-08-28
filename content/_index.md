@@ -173,18 +173,20 @@ sections:
           |       | Schedule                              |
           |-------|---------------------------------------|
           | 08:55 | Opening                               |
-          | 09:00 | Tutorial by Davide Bacciu             |
+          | 09:00 | <b>Tutorial</b> by Davide Bacciu             |
           | 10:45 | Coffee break                          |
-          | 11:00 | 1st & 2nd oral talk                   |
-          | 11:30 | Pitch talks                           |
-          | 12:00 | Poster session (group A)              |
+          | 11:00 | <b>The expressive power of pooling in Graph Neural Networks</b><br /> by Filippo Maria Bianchi and Veronica Lachi                   |
+          | 11:15 | <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br /> by Andreas Roth and Thomas Liebig                   |
+          | 11:30 | <b>Pitch talks</b> (group A)                           |
+          | 12:00 | <b>Poster session</b> (group A)              |
           | 13:00 | Lunch break                           |
-          | 14:00 | Keynote by Giannis Nikolentzos        |
-          | 14:45 | 3rd & 4th oral talk                   |
+          | 14:00 | <b>Keynote</b> by Giannis Nikolentzos        |
+          | 14:45 | <b>Removing Redundancy in Graph Neural Networks</b><br /> by Franka Bause et al.                   |
+          | 15:00 | <b>A Fractional Graph Laplacian Approach to Oversmoothing</b><br /> by Sohir Maskey et al.               |
           | 15:15 | Coffee break with topical discussions |
-          | 15:45 | Keynote by Bastian Rieck              |
-          | 16:30 | Pitch talks                           |
-          | 17:00 | Poster session (group B)              |
+          | 15:45 | <b>Keynote</b> by Bastian Rieck              |
+          | 16:30 | <b>Pitch talks</b> (group B)                           |
+          | 17:00 | <b>Poster session</b> (group B)              |
           | 18:00 | Conclusion & awards                   |
           </div>
 
@@ -208,112 +210,112 @@ sections:
             margin-right: auto;
             width: 75%">
 
-            <ol>
-            <li>
+            <table>
+            <tr><td>
             <b>Edge Directionality Improves Learning on Heterophilic Graphs</b><br />
             Emanuele Rossi*, Bertrand Charpentier, Francesco Di Giovanni, Fabrizio Frasca, Stephan Günnemann, Michael Bronstein
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>On a linear fused Gromov-Wasserstein distance for graph structured data</b><br />
             Dai Hai Nguyen*
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>TAMARA: a task-aware multilayer graph simplification framework</b><br />
             Cheick Tidiane Ba*, Roberto Interdonato, Dino Ienco, sabrina gaito
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Curvature-based Pooling within Graph Neural Networks</b><br />
             Cedric Sanders, Andreas Roth*, Thomas Liebig
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br />
             Andreas Roth*, Thomas Liebig
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks </b><br />
             Uxía Veleiro*, Jesús de la Fuente, Guillermo Serrano, Marija Pizurica, Mikel Casals, Antonio Pineda-Lucena, Silve Vicent, Idoia Ochoa, Olivier Gevaert, Mikel Hernaez
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>The expressive power of pooling in Graph Neural Networks</b><br />
             Filippo Maria Bianchi, Veronica Lachi*
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Graph Neural Networks for Graph Drawing</b><br />
             Matteo Tiezzi*, Gabriele Ciravegna, Marco Gori
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</b><br />
             Antonio Longa, Veronica Lachi*, Gabriele Santin, Monica Bianchini, Bruno Lepri, Pietro Lió, Franco Scarselli, Andrea Passerini
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Investigating the Interplay between Features and Structures in Graph Learning</b><br />
             Daniele Castellana*, Federico Errica
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Finding coherent node groups in directed graphs</b><br />
             Iiro Kumpulainen*, Nikolaj Tatti
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Hypergraphx: a library for higher-order network analysis</b><br />
             Quintino Francesco Lotito*, Martina Contisciani, Caterina De Bacco, Leonardo Di Gaetano, Luca Gallo, Alberto Montresor, Federico Musciotto, Nicolò Ruggeri, Federico Battiston
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Balancing performance and complexity with adaptive graph coarsening</b><br />
             Marek Dědič*, Lukáš Bajer, Pavel Procházka, Martin Holena
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Global Explainability of GNNs via Logic Combination of Learned Concepts</b><br />
             Steve Azzolin, Antonio Longa*, Pietro Barbiero, Pietro Lió, Andrea Passerini
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Understanding how explainers work in graph neural networks</b><br />
             Antonio Longa*, Steve Azzolin, Gabriele Santin, Giulia Cencetti, Pietro Lió, Bruno Lepri, Andrea Passerini
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Over-Parameterized Neural Models based on Graph Random Features for fast and accurate graph classification</b><br />
             Nicolò Navarin*, Luca Pasa, Claudio Gallicchio, Luca Oneto, Alessandro Sperduti)
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Compositional Visual Causal Reasoning with Language Prompts</b><br />
             Krishna Sri Ipsit Mantri*, Nevasini NA Sasikumar
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Removing Redundancy in Graph Neural Networks</b><br />
             Franka Bause*, Samir Moustafa, Wilfried Gansterer, Nils M Kriege
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>SILVAN: Estimating Betweenness Centralities with Progressive Sampling and Non-uniform Rademacher Bounds</b><br />
             Leonardo Pellegrina*, Fabio Vandin
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>Exploring the Poincaré Ellipsis</b><br />
             Samuel G. Fadel*, Tino Paulsen, Ulf Brefeld
-            </li>
+            </td></tr>
 
-            <li>
+            <tr><td>
             <b>A Fractional Graph Laplacian Approach to Oversmoothing</b><br />
             Sohir Maskey*, Raffaele Paolino, Aras Bacho, Gitta Kutyniok
-            </li>
-            </ol>
+            </td></tr>
+            </table>
 
 
           </div>
