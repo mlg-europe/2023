@@ -212,107 +212,107 @@ sections:
 
             <table>
             <tr><td>
-            <b>Edge Directionality Improves Learning on Heterophilic Graphs</b><br />
+            <b><a href="papers/13.pdf">Edge Directionality Improves Learning on Heterophilic Graphs</a></b><br />
             Emanuele Rossi*, Bertrand Charpentier, Francesco Di Giovanni, Fabrizio Frasca, Stephan Günnemann, Michael Bronstein
             </td></tr>
 
             <tr><td>
-            <b>On a linear fused Gromov-Wasserstein distance for graph structured data</b><br />
+            <b><a href="papers/19.pdf">On a linear fused Gromov-Wasserstein distance for graph structured data</a></b><br />
             Dai Hai Nguyen*
             </td></tr>
 
             <tr><td>
-            <b>TAMARA: a task-aware multilayer graph simplification framework</b><br />
-            Cheick Tidiane Ba*, Roberto Interdonato, Dino Ienco, sabrina gaito
+            <b><a href="papers/38.pdf">TAMARA: a task-aware multilayer graph simplification framework</a></b><br />
+            Cheick Tidiane Ba*, Roberto Interdonato, Dino Ienco, Sabrina Gaito
             </td></tr>
 
             <tr><td>
-            <b>Curvature-based Pooling within Graph Neural Networks</b><br />
+            <b><a href="papers/106.pdf">Curvature-based Pooling within Graph Neural Networks</a></b><br />
             Cedric Sanders, Andreas Roth*, Thomas Liebig
             </td></tr>
 
             <tr><td>
-            <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br />
+            <b><a href="papers/137.pdf">Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</a></b><br />
             Andreas Roth*, Thomas Liebig
             </td></tr>
 
             <tr><td>
-            <b>GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks </b><br />
+            <b><a href="papers/204.pdf">GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks </a></b><br />
             Uxía Veleiro*, Jesús de la Fuente, Guillermo Serrano, Marija Pizurica, Mikel Casals, Antonio Pineda-Lucena, Silve Vicent, Idoia Ochoa, Olivier Gevaert, Mikel Hernaez
             </td></tr>
 
             <tr><td>
-            <b>The expressive power of pooling in Graph Neural Networks</b><br />
+            <b><a href="papers/211.pdf">The expressive power of pooling in Graph Neural Networks</a></b><br />
             Filippo Maria Bianchi, Veronica Lachi*
             </td></tr>
 
             <tr><td>
-            <b>Graph Neural Networks for Graph Drawing</b><br />
+            <b><a href="papers/212.pdf">Graph Neural Networks for Graph Drawing</a></b><br />
             Matteo Tiezzi*, Gabriele Ciravegna, Marco Gori
             </td></tr>
 
             <tr><td>
-            <b>Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</b><br />
+            <b><a href="papers/215.pdf">Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities</a></b><br />
             Antonio Longa, Veronica Lachi*, Gabriele Santin, Monica Bianchini, Bruno Lepri, Pietro Lió, Franco Scarselli, Andrea Passerini
             </td></tr>
 
             <tr><td>
-            <b>Investigating the Interplay between Features and Structures in Graph Learning</b><br />
+            <b><a href="papers/219.pdf">Investigating the Interplay between Features and Structures in Graph Learning</a></b><br />
             Daniele Castellana*, Federico Errica
             </td></tr>
 
             <tr><td>
-            <b>Finding coherent node groups in directed graphs</b><br />
+            <b><a href="papers/220.pdf">Finding coherent node groups in directed graphs</a></b><br />
             Iiro Kumpulainen*, Nikolaj Tatti
             </td></tr>
 
             <tr><td>
-            <b>Hypergraphx: a library for higher-order network analysis</b><br />
+            <b><a href="papers/224.pdf">Hypergraphx: a library for higher-order network analysis</a></b><br />
             Quintino Francesco Lotito*, Martina Contisciani, Caterina De Bacco, Leonardo Di Gaetano, Luca Gallo, Alberto Montresor, Federico Musciotto, Nicolò Ruggeri, Federico Battiston
             </td></tr>
 
             <tr><td>
-            <b>Balancing performance and complexity with adaptive graph coarsening</b><br />
+            <b><a href="papers/234.pdf">Balancing performance and complexity with adaptive graph coarsening</a></b><br />
             Marek Dědič*, Lukáš Bajer, Pavel Procházka, Martin Holena
             </td></tr>
 
             <tr><td>
-            <b>Global Explainability of GNNs via Logic Combination of Learned Concepts</b><br />
+            <b><a href="papers/240.pdf">Global Explainability of GNNs via Logic Combination of Learned Concepts</a></b><br />
             Steve Azzolin, Antonio Longa*, Pietro Barbiero, Pietro Lió, Andrea Passerini
             </td></tr>
 
             <tr><td>
-            <b>Understanding how explainers work in graph neural networks</b><br />
+            <b><a href="papers/241.pdf">Understanding how explainers work in graph neural networks</a></b><br />
             Antonio Longa*, Steve Azzolin, Gabriele Santin, Giulia Cencetti, Pietro Lió, Bruno Lepri, Andrea Passerini
             </td></tr>
 
             <tr><td>
-            <b>Over-Parameterized Neural Models based on Graph Random Features for fast and accurate graph classification</b><br />
-            Nicolò Navarin*, Luca Pasa, Claudio Gallicchio, Luca Oneto, Alessandro Sperduti)
+            <b><a href="papers/245.pdf">Over-Parameterized Neural Models based on Graph Random Features for fast and accurate graph classification</a></b><br />
+            Nicolò Navarin*, Luca Pasa, Claudio Gallicchio, Luca Oneto, Alessandro Sperduti
             </td></tr>
 
             <tr><td>
-            <b>Compositional Visual Causal Reasoning with Language Prompts</b><br />
+            <b><a href="papers/246.pdf">Compositional Visual Causal Reasoning with Language Prompts</a></b><br />
             Krishna Sri Ipsit Mantri*, Nevasini NA Sasikumar
             </td></tr>
 
             <tr><td>
-            <b>Removing Redundancy in Graph Neural Networks</b><br />
+            <b><a href="papers/252.pdf">Removing Redundancy in Graph Neural Networks</a></b><br />
             Franka Bause*, Samir Moustafa, Wilfried Gansterer, Nils M Kriege
             </td></tr>
 
             <tr><td>
-            <b>SILVAN: Estimating Betweenness Centralities with Progressive Sampling and Non-uniform Rademacher Bounds</b><br />
+            <b><a href="papers/258.pdf">SILVAN: Estimating Betweenness Centralities with Progressive Sampling and Non-uniform Rademacher Bounds</a></b><br />
             Leonardo Pellegrina*, Fabio Vandin
             </td></tr>
 
             <tr><td>
-            <b>Exploring the Poincaré Ellipsis</b><br />
+            <b><a href="papers/259.pdf">Exploring the Poincaré Ellipsis</a></b><br />
             Samuel G. Fadel*, Tino Paulsen, Ulf Brefeld
             </td></tr>
 
             <tr><td>
-            <b>A Fractional Graph Laplacian Approach to Oversmoothing</b><br />
+            <b><a href="papers/317.pdf">A Fractional Graph Laplacian Approach to Oversmoothing</a></b><br />
             Sohir Maskey*, Raffaele Paolino, Aras Bacho, Gitta Kutyniok
             </td></tr>
             </table>
