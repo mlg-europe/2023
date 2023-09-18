@@ -180,14 +180,14 @@ sections:
           | 11:45 | <b>The expressive power of pooling in Graph Neural Networks</b><br /> by Filippo Maria Bianchi and Veronica Lachi                        |
           | 12:00 | <b>Poster session</b> (group A)              |
           | 13:00 | Lunch break                           |
-          | 14:00 | <b>Keynote</b> by Giannis Nikolentzos        |
-          | 14:45 | <b>Removing Redundancy in Graph Neural Networks</b><br /> by Franka Bause et al.                   |
-          | 15:00 | <b>A Fractional Graph Laplacian Approach to Oversmoothing</b><br /> by Sohir Maskey et al.               |
-          | 15:15 | Coffee break with topical discussions |
-          | 15:45 | <b>Keynote</b> by Bastian Rieck              |
-          | 16:30 | <b>Pitch talks</b> (group B)                           |
-          | 17:00 | <b>Poster session</b> (group B)              |
-          | 18:00 | Conclusion & awards                   |
+          | 14:30 | <b>Keynote</b> by Giannis Nikolentzos        |
+          | 15:15 | <b>Removing Redundancy in Graph Neural Networks</b><br /> by Franka Bause et al.                   |
+          | 15:30 | <b>A Fractional Graph Laplacian Approach to Oversmoothing</b><br /> by Sohir Maskey et al.               |
+          | 15:45 |  <b>Pitch talks</b> (group B)                           |
+          | 16:00 | Coffee break with topical discussions |
+          | 16:30 | <b>Keynote</b> by Bastian Rieck              |
+          | 17:15 | <b>Poster session</b> (group B)              |
+          | 18:15 | Conclusion & awards                   |
           </div>
 
   - block: markdown 
