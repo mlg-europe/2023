@@ -174,10 +174,10 @@ sections:
           |-------|---------------------------------------|
           | 08:55 | Opening                               |
           | 09:00 | <b>Tutorial</b> by Davide Bacciu             |
-          | 10:45 | Coffee break                          |
-          | 11:00 | <b>The expressive power of pooling in Graph Neural Networks</b><br /> by Filippo Maria Bianchi and Veronica Lachi                   |
-          | 11:15 | <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br /> by Andreas Roth and Thomas Liebig                   |
-          | 11:30 | <b>Pitch talks</b> (group A)                           |
+          | 10:45 | <b>Pitch talks</b> (group A)                                |
+          | 11:00 | Coffee break                 |
+          | 11:30 | <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br /> by Andreas Roth and Thomas Liebig                   |
+          | 11:45 | <b>The expressive power of pooling in Graph Neural Networks</b><br /> by Filippo Maria Bianchi and Veronica Lachi                        |
           | 12:00 | <b>Poster session</b> (group A)              |
           | 13:00 | Lunch break                           |
           | 14:00 | <b>Keynote</b> by Giannis Nikolentzos        |
