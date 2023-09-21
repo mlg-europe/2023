@@ -176,7 +176,7 @@ sections:
           | 09:00 | <b>Tutorial</b> by Davide Bacciu             |
           | 10:45 | <b>Pitch talks</b> (group A)                                |
           | 11:00 | Coffee break                 |
-          | 11:30 | <b>Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</b><br /> by Andreas Roth and Thomas Liebig                   |
+          | 11:30 | <b>Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks</b><br /> by Andreas Roth and Thomas Liebig                   |
           | 11:45 | <b>The expressive power of pooling in Graph Neural Networks</b><br /> by Filippo Maria Bianchi and Veronica Lachi                        |
           | 12:00 | <b>Poster session</b> (group A)              |
           | 13:00 | Lunch break                           |
@@ -232,7 +232,7 @@ sections:
             </td></tr>
 
             <tr><td>
-            <b><a href="papers/137.pdf">Decoding Over-Smoothing and Over-Correlation: Towards Powerful Graph Neural Networks</a></b><br />
+            <b><a href="papers/137.pdf">Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks</a></b><br />
             Andreas Roth*, Thomas Liebig
             </td></tr>
 
