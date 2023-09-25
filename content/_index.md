@@ -195,11 +195,15 @@ sections:
     content:
         title: Awards
         text: |-
-          <div style="margin-left: auto;
-            margin-right: auto;
-            width: 5%">
-            TBC
-          </div>
+            The best paper was selected among the oral talks by the in-person audience of our workshop. The best poster was similarly selected by the audience among all posters presented at the workshop. 
+            We thank Astra Zeneca for the generous sponsorship of our two awards!
+
+            ## Best Paper Award
+            <b>Removing Redundancy in Graph Neural Networks</b><br /> by Franka Bause, Samir Moustafa, Wilfried Gansterer, Nils M Kriege
+
+            ## Best Poster Award    
+            <b>TAMARA: a task-aware multilayer graph simplification framework</b><br />
+            Cheick Tidiane Ba, Roberto Interdonato, Dino Ienco, Sabrina Gaito 
 
   - block: markdown
     id: accepted
