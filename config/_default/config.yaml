@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: MLG@ECMLPKDD # Website name
-baseURL: 'https://mlg-europe.github.io/2023/' # Website URL
+baseURL: 'https://mlg-europe.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
